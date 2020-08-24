@@ -1,2 +1,2 @@
 # probability-notes
-Notes on dataquests's probability course
+Dataquests's probability notes and project
